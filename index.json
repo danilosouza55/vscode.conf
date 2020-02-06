@@ -3,16 +3,16 @@
     "workbench.colorTheme": "Dracula",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
-    "editor.fontSize": 14,
+    "editor.fontSize": 15,
     "editor.lineHeight": 24,
     "editor.formatOnSave": true,
     "editor.rulers": [
         80,
         120
     ],
-    "editor.tabSize": 2,
+    "editor.tabSize": 4,
     "editor.renderLineHighlight": "gutter",
-    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontSize": 14,
     "emmet.syntaxProfiles": {
         "java": "jsx"
     },
