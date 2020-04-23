@@ -3,7 +3,7 @@
     "workbench.colorTheme": "Dracula",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
-    "editor.fontSize": 18,
+    "editor.fontSize": 14,
     "editor.lineHeight": 24,
     "editor.formatOnSave": true,
     "editor.rulers": [
@@ -26,5 +26,10 @@
     "editor.codeActionsOnSave": {
         "source.fixAll": true
     },
-    "javascript.updateImportsOnFileMove.enabled": "always"
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "[html]": {
+        "editor.defaultFormatter": "NikolaosGeorgiou.html-fmt-vscode"
+    },
 }
