@@ -10,7 +10,9 @@ Dracula Official
 
 EditorConfig
 
-Eslinst
+ESLint
+
+Prettier - Code formatter
 
 GitLens
 
@@ -27,5 +29,7 @@ Rocketseat ReactJS
 Docker
 
 Go
+
+vscode-styled-components
 
 Install Font FIRA CODE 
